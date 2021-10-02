@@ -8,4 +8,4 @@ The OEGMS is an open-access encyclopaedia collectively edited by the students @ 
 
 It is updated annually to reflect the changes in the views and interests of different student cohorts on gender and media issues.
 
-The 2021 edition will be released in Sep/Oct 2021.
+The first edition has been released in Oct 2021.
