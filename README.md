@@ -10,6 +10,7 @@ It is updated annually to reflect the changes in the views and interests of diff
 
 The first edition has been released in Oct 2021.
   
+---
 
 ![Otago Digital Storytelling](https://raw.githubusercontent.com/John-Otago/Otago-Digital-Storytelling/main/ODS.jpg)
 
